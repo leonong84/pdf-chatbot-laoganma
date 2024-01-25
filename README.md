@@ -1,8 +1,9 @@
-# pdf-chatbot-laoganma
+# LaoGanMa PDF Chatbot
+
 Using LLM to understand your PDF and chat with it!
 Uses pinecone and replicate, both require their own API.
 
-Python libraries:
+## Python libraries:
 - streamlit
 - replicate
 - PyPDF2
@@ -15,6 +16,6 @@ Python libraries:
 - sentence-transformers
 - pdfplumber
 
-Required packages:
+## Required packages:
 - poppler-utils
 - tesseract-ocr
